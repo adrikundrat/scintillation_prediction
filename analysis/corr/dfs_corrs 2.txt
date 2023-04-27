@@ -1,0 +1,663 @@
+13379
+
+Phi60_Sig1-----Phi60_Sig1_1min-----0.9969005213790155
+Phi60_Sig1-----Phi60_Sig1_5min-----0.9705387652882089
+Phi60_Sig1-----Phi60_Sig1_15min-----0.8604757963860988
+Phi60_Sig1-----AvgSig1_C/N0-----0.5162481483657082
+Phi60_Sig1-----S4_Sig1-----0.5966672549737411
+Phi60_Sig1-----Cor_S4_Sig1-----0.5270503838271939
+Phi60_Sig1-----Avg_C/N0_2nd_freq-----0.5199290119119311
+Phi60_Sig1-----SI_ind_Sig1-----0.6032473852075466
+Phi60_Sig1_1min-----Phi60_Sig1-----0.9969005213790155
+Phi60_Sig1_1min-----Phi60_Sig1_5min-----0.9785533065635552
+Phi60_Sig1_1min-----Phi60_Sig1_15min-----0.8733332833099321
+Phi60_Sig1_1min-----AvgSig1_C/N0-----0.5138858206857986
+Phi60_Sig1_1min-----S4_Sig1-----0.592685146885266
+Phi60_Sig1_1min-----Cor_S4_Sig1-----0.5237202609911893
+Phi60_Sig1_1min-----Avg_C/N0_2nd_freq-----0.5167176011276422
+Phi60_Sig1_1min-----SI_ind_Sig1-----0.5991288991084291
+Phi60_Sig1_5min-----Phi60_Sig1-----0.9705387652882089
+Phi60_Sig1_5min-----Phi60_Sig1_1min-----0.9785533065635552
+Phi60_Sig1_5min-----Phi60_Sig1_15min-----0.921475224264389
+Phi60_Sig1_5min-----S4_Sig1-----0.5640263236012273
+Phi60_Sig1_5min-----SI_ind_Sig1-----0.5698339481946402
+Phi60_Sig1_15min-----Phi60_Sig1-----0.8604757963860988
+Phi60_Sig1_15min-----Phi60_Sig1_1min-----0.8733332833099321
+Phi60_Sig1_15min-----Phi60_Sig1_5min-----0.921475224264389
+Elevation-----AvgSig1_C/N0-----0.747261068988648
+Elevation-----S4_Sig1-----0.7877432385049468
+Elevation-----Cor_S4_Sig1-----0.7630560855881726
+Elevation-----Avg_C/N0_2nd_freq-----0.8304209604107762
+Elevation-----SI_ind_Sig1-----0.7693057736102197
+AvgSig1_C/N0-----Phi60_Sig1-----0.5162481483657082
+AvgSig1_C/N0-----Phi60_Sig1_1min-----0.5138858206857986
+AvgSig1_C/N0-----Elevation-----0.747261068988648
+AvgSig1_C/N0-----S4_Sig1-----0.8848484008471361
+AvgSig1_C/N0-----Cor_S4_Sig1-----0.9941846036566826
+AvgSig1_C/N0-----Avg_C/N0_2nd_freq-----0.9235963391046077
+AvgSig1_C/N0-----SI_ind_Sig1-----0.8885374733398661
+AvgSig1_C/N0-----p_Sig1-----0.5100293463576705
+S4_Sig1-----Phi60_Sig1-----0.5966672549737411
+S4_Sig1-----Phi60_Sig1_1min-----0.592685146885266
+S4_Sig1-----Phi60_Sig1_5min-----0.5640263236012273
+S4_Sig1-----Elevation-----0.7877432385049468
+S4_Sig1-----AvgSig1_C/N0-----0.8848484008471361
+S4_Sig1-----Cor_S4_Sig1-----0.89416537425168
+S4_Sig1-----Avg_C/N0_2nd_freq-----0.8923206140141405
+S4_Sig1-----SI_ind_Sig1-----0.9943388046664516
+Cor_S4_Sig1-----Phi60_Sig1-----0.5270503838271939
+Cor_S4_Sig1-----Phi60_Sig1_1min-----0.5237202609911893
+Cor_S4_Sig1-----Elevation-----0.7630560855881726
+Cor_S4_Sig1-----AvgSig1_C/N0-----0.9941846036566826
+Cor_S4_Sig1-----S4_Sig1-----0.89416537425168
+Cor_S4_Sig1-----Avg_C/N0_2nd_freq-----0.92935372350534
+Cor_S4_Sig1-----SI_ind_Sig1-----0.898730296401042
+TEC_TOW-----f10.7_index-----0.5029847518784556
+Sig1_lock_time-----Lock_time_2nd_freq-----0.9972578375928919
+Lock_time_2nd_freq-----Sig1_lock_time-----0.9972578375928919
+Avg_C/N0_2nd_freq-----Phi60_Sig1-----0.5199290119119311
+Avg_C/N0_2nd_freq-----Phi60_Sig1_1min-----0.5167176011276422
+Avg_C/N0_2nd_freq-----Elevation-----0.8304209604107762
+Avg_C/N0_2nd_freq-----AvgSig1_C/N0-----0.9235963391046077
+Avg_C/N0_2nd_freq-----S4_Sig1-----0.8923206140141405
+Avg_C/N0_2nd_freq-----Cor_S4_Sig1-----0.92935372350534
+Avg_C/N0_2nd_freq-----SI_ind_Sig1-----0.8883825487604925
+SI_ind_Sig1-----Phi60_Sig1-----0.6032473852075466
+SI_ind_Sig1-----Phi60_Sig1_1min-----0.5991288991084291
+SI_ind_Sig1-----Phi60_Sig1_5min-----0.5698339481946402
+SI_ind_Sig1-----Elevation-----0.7693057736102197
+SI_ind_Sig1-----AvgSig1_C/N0-----0.8885374733398661
+SI_ind_Sig1-----S4_Sig1-----0.9943388046664516
+SI_ind_Sig1-----Cor_S4_Sig1-----0.898730296401042
+SI_ind_Sig1-----Avg_C/N0_2nd_freq-----0.8883825487604925
+p_Sig1-----AvgSig1_C/N0-----0.5100293463576705
+Scalar B[nT]-----Plasma Beta-----0.69671765860674
+Scalar B[nT]-----Alfen mach number-----0.7501115086456754
+Scalar B[nT]-----Magnetosonic Much num.-----0.6330936754233508
+Scalar B[nT]-----Quasy-Invariant-----0.7500716685737199
+Scalar B[nT]-----Kp index-----0.5036203089854434
+Scalar B[nT]-----ap_index[nT]-----0.5036203089854434
+BZ (GSE) [nT]-----E elecrtric field-----0.8719187333509317
+SW Plasma Temperature[K]-----SW Plasma Speed[km/s]-----0.7904808955029257
+SW Plasma Temperature[K]-----Alpha/Prot. ratio-----0.5653302417254505
+SW Plasma Temperature[K]-----Kp index-----0.5595170059023548
+SW Plasma Temperature[K]-----ap_index[nT]-----0.5595170059023548
+SW Plasma Temperature[K]-----Vx Velocity[km/s]-----0.7953296996215914
+SW Proton Density[N/cm^3]-----SW Plasma Speed[km/s]-----0.5149987842105109
+SW Proton Density[N/cm^3]-----Flow pressure-----0.6734943382748371
+SW Proton Density[N/cm^3]-----Vx Velocity[km/s]-----0.5231132874499441
+SW Proton Density[N/cm^3]-----BSN location Xgse[Re]-----0.6682177177734163
+SW Plasma Speed[km/s]-----SW Plasma Temperature[K]-----0.7904808955029257
+SW Plasma Speed[km/s]-----SW Proton Density[N/cm^3]-----0.5149987842105109
+SW Plasma Speed[km/s]-----Alpha/Prot. ratio-----0.5102507681920804
+SW Plasma Speed[km/s]-----Kp index-----0.5634702341651028
+SW Plasma Speed[km/s]-----Dst-index[nT]-----0.5571736204673106
+SW Plasma Speed[km/s]-----ap_index[nT]-----0.5634702341651028
+SW Plasma Speed[km/s]-----Vx Velocity[km/s]-----0.9975812620629639
+SW Plasma Speed[km/s]-----SYM/H[nT]-----0.5376355688802601
+SW Plasma flow long. angle-----Vy Velocity[km/s]-----0.844663198794366
+SW Plasma flow long. angle-----BSN location Ygse[Re]-----0.7496276482435575
+SW Plasma flow lat. angle-----Vz Velocity[km/s]-----0.8228244458809761
+SW Plasma flow lat. angle-----BSN location Zgse[Re]-----0.8341883004987878
+Alpha/Prot. ratio-----SW Plasma Temperature[K]-----0.5653302417254505
+Alpha/Prot. ratio-----SW Plasma Speed[km/s]-----0.5102507681920804
+Alpha/Prot. ratio-----Vx Velocity[km/s]-----0.5154012786724632
+Flow pressure-----SW Proton Density[N/cm^3]-----0.6734943382748371
+Flow pressure-----Kp index-----0.5153066304153078
+Flow pressure-----ap_index[nT]-----0.5153066304153078
+Flow pressure-----BSN location Xgse[Re]-----0.9413424900434846
+E elecrtric field-----BZ (GSE) [nT]-----0.8719187333509317
+E elecrtric field-----AE-index[nT]-----0.5254958899248648
+E elecrtric field-----AL-index[nT]-----0.5099670514284576
+E elecrtric field-----pc-index-----0.5903082046110735
+Plasma Beta-----Scalar B[nT]-----0.69671765860674
+Plasma Beta-----Alfen mach number-----0.9308993888147925
+Plasma Beta-----Magnetosonic Much num.-----0.6261556773834267
+Plasma Beta-----Quasy-Invariant-----0.930898339945953
+Alfen mach number-----Scalar B[nT]-----0.7501115086456754
+Alfen mach number-----Plasma Beta-----0.9308993888147925
+Alfen mach number-----Magnetosonic Much num.-----0.8514899332293753
+Alfen mach number-----Quasy-Invariant-----0.9998834039924224
+Magnetosonic Much num.-----Scalar B[nT]-----0.6330936754233508
+Magnetosonic Much num.-----Plasma Beta-----0.6261556773834267
+Magnetosonic Much num.-----Alfen mach number-----0.8514899332293753
+Magnetosonic Much num.-----Quasy-Invariant-----0.851533807040769
+Quasy-Invariant-----Scalar B[nT]-----0.7500716685737199
+Quasy-Invariant-----Plasma Beta-----0.930898339945953
+Quasy-Invariant-----Alfen mach number-----0.9998834039924224
+Quasy-Invariant-----Magnetosonic Much num.-----0.851533807040769
+Kp index-----Scalar B[nT]-----0.5036203089854434
+Kp index-----SW Plasma Temperature[K]-----0.5595170059023548
+Kp index-----SW Plasma Speed[km/s]-----0.5634702341651028
+Kp index-----Flow pressure-----0.5153066304153078
+Kp index-----ap_index[nT]-----1.0
+Kp index-----AE-index[nT]-----0.7761730021010235
+Kp index-----AL-index[nT]-----0.6931019737503984
+Kp index-----AU-index[nT]-----0.7484939607783794
+Kp index-----pc-index-----0.6622997989690028
+Kp index-----Vx Velocity[km/s]-----0.5667658759044748
+Kp index-----ASY/H[nT]-----0.5460869187869922
+R (Sunspot No.)-----f10.7_index-----0.9152269323906138
+Dst-index[nT]-----SW Plasma Speed[km/s]-----0.5571736204673106
+Dst-index[nT]-----AE-index[nT]-----0.5406668099950667
+Dst-index[nT]-----AL-index[nT]-----0.5330555678385174
+Dst-index[nT]-----Vx Velocity[km/s]-----0.5595098050722069
+Dst-index[nT]-----SYM/H[nT]-----0.8948505373450263
+ap_index[nT]-----Scalar B[nT]-----0.5036203089854434
+ap_index[nT]-----SW Plasma Temperature[K]-----0.5595170059023548
+ap_index[nT]-----SW Plasma Speed[km/s]-----0.5634702341651028
+ap_index[nT]-----Flow pressure-----0.5153066304153078
+ap_index[nT]-----Kp index-----1.0
+ap_index[nT]-----AE-index[nT]-----0.7761730021010235
+ap_index[nT]-----AL-index[nT]-----0.6931019737503984
+ap_index[nT]-----AU-index[nT]-----0.7484939607783794
+ap_index[nT]-----pc-index-----0.6622997989690028
+ap_index[nT]-----Vx Velocity[km/s]-----0.5667658759044748
+ap_index[nT]-----ASY/H[nT]-----0.5460869187869922
+f10.7_index-----TEC_TOW-----0.5029847518784556
+f10.7_index-----R (Sunspot No.)-----0.9152269323906138
+AE-index[nT]-----E elecrtric field-----0.5254958899248648
+AE-index[nT]-----Kp index-----0.7761730021010235
+AE-index[nT]-----Dst-index[nT]-----0.5406668099950667
+AE-index[nT]-----ap_index[nT]-----0.7761730021010235
+AE-index[nT]-----AL-index[nT]-----0.9484092916726391
+AE-index[nT]-----AU-index[nT]-----0.8659200817364299
+AE-index[nT]-----pc-index-----0.8073997728178455
+AE-index[nT]-----SYM/H[nT]-----0.5358182941222677
+AE-index[nT]-----ASY/H[nT]-----0.5856253307757863
+AL-index[nT]-----E elecrtric field-----0.5099670514284576
+AL-index[nT]-----Kp index-----0.6931019737503984
+AL-index[nT]-----Dst-index[nT]-----0.5330555678385174
+AL-index[nT]-----ap_index[nT]-----0.6931019737503984
+AL-index[nT]-----AE-index[nT]-----0.9484092916726391
+AL-index[nT]-----AU-index[nT]-----0.6930054685937852
+AL-index[nT]-----pc-index-----0.7749445869400438
+AL-index[nT]-----SYM/H[nT]-----0.5387091460524874
+AL-index[nT]-----ASY/H[nT]-----0.5504298726843855
+AU-index[nT]-----Kp index-----0.7484939607783794
+AU-index[nT]-----ap_index[nT]-----0.7484939607783794
+AU-index[nT]-----AE-index[nT]-----0.8659200817364299
+AU-index[nT]-----AL-index[nT]-----0.6930054685937852
+AU-index[nT]-----pc-index-----0.6999832428690177
+AU-index[nT]-----ASY/H[nT]-----0.5392100576405005
+pc-index-----E elecrtric field-----0.5903082046110735
+pc-index-----Kp index-----0.6622997989690028
+pc-index-----ap_index[nT]-----0.6622997989690028
+pc-index-----AE-index[nT]-----0.8073997728178455
+pc-index-----AL-index[nT]-----0.7749445869400438
+pc-index-----AU-index[nT]-----0.6999832428690177
+Vx Velocity[km/s]-----SW Plasma Temperature[K]-----0.7953296996215914
+Vx Velocity[km/s]-----SW Proton Density[N/cm^3]-----0.5231132874499441
+Vx Velocity[km/s]-----SW Plasma Speed[km/s]-----0.9975812620629639
+Vx Velocity[km/s]-----Alpha/Prot. ratio-----0.5154012786724632
+Vx Velocity[km/s]-----Kp index-----0.5667658759044748
+Vx Velocity[km/s]-----Dst-index[nT]-----0.5595098050722069
+Vx Velocity[km/s]-----ap_index[nT]-----0.5667658759044748
+Vx Velocity[km/s]-----SYM/H[nT]-----0.539659803935237
+Vy Velocity[km/s]-----SW Plasma flow long. angle-----0.844663198794366
+Vy Velocity[km/s]-----BSN location Ygse[Re]-----0.8945459813849768
+Vz Velocity[km/s]-----SW Plasma flow lat. angle-----0.8228244458809761
+Vz Velocity[km/s]-----BSN location Zgse[Re]-----0.9822018833043958
+BSN location Xgse[Re]-----SW Proton Density[N/cm^3]-----0.6682177177734163
+BSN location Xgse[Re]-----Flow pressure-----0.9413424900434846
+BSN location Ygse[Re]-----SW Plasma flow long. angle-----0.7496276482435575
+BSN location Ygse[Re]-----Vy Velocity[km/s]-----0.8945459813849768
+BSN location Zgse[Re]-----SW Plasma flow lat. angle-----0.8341883004987878
+BSN location Zgse[Re]-----Vz Velocity[km/s]-----0.9822018833043958
+SYM/H[nT]-----SW Plasma Speed[km/s]-----0.5376355688802601
+SYM/H[nT]-----Dst-index[nT]-----0.8948505373450263
+SYM/H[nT]-----AE-index[nT]-----0.5358182941222677
+SYM/H[nT]-----AL-index[nT]-----0.5387091460524874
+SYM/H[nT]-----Vx Velocity[km/s]-----0.539659803935237
+ASY/H[nT]-----Kp index-----0.5460869187869922
+ASY/H[nT]-----ap_index[nT]-----0.5460869187869922
+ASY/H[nT]-----AE-index[nT]-----0.5856253307757863
+ASY/H[nT]-----AL-index[nT]-----0.5504298726843855
+ASY/H[nT]-----AU-index[nT]-----0.5392100576405005
+
+{'BSN location Zgse[Re]', 'Plasma Beta', 'Phi60_Sig1_5min', 'SW Plasma flow lat. angle', 'SW Plasma flow long. angle', 'AE-index[nT]', 'Sig1_lock_time', 'Phi60_Sig1', 'Quasy-Invariant', 'f10.7_index', 'Vy Velocity[km/s]', 'Phi60_Sig1_1min', 'SW Plasma Speed[km/s]', 'Scalar B[nT]', 'Cor_S4_Sig1', 'Flow pressure', 'Avg_C/N0_2nd_freq', 'AL-index[nT]', 'Alfen mach number', 'Dst-index[nT]', 'SW Plasma Temperature[K]', 'pc-index', 'SI_ind_Sig1', 'Kp index', 'BSN location Xgse[Re]', 'Vx Velocity[km/s]', 'ap_index[nT]', 'S4_Sig1', 'AU-index[nT]', 'AvgSig1_C/N0', 'E elecrtric field'}
+Number of correlated columns:  31
+
+BINS ONLY
+
+
+Phi60_Sig1-----AvgSig1_C/N0-----0.5162481483657082
+Phi60_Sig1-----S4_Sig1-----0.5966672549737411
+Phi60_Sig1-----Cor_S4_Sig1-----0.5270503838271939
+Phi60_Sig1-----Avg_C/N0_2nd_freq-----0.5199290119119311
+Phi60_Sig1-----SI_ind_Sig1-----0.6032473852075466
+Phi60_Sig1_1min-----AvgSig1_C/N0-----0.5138858206857986
+Phi60_Sig1_1min-----S4_Sig1-----0.592685146885266
+Phi60_Sig1_1min-----Cor_S4_Sig1-----0.5237202609911893
+Phi60_Sig1_1min-----Avg_C/N0_2nd_freq-----0.5167176011276422
+Phi60_Sig1_1min-----SI_ind_Sig1-----0.5991288991084291
+Phi60_Sig1_5min-----S4_Sig1-----0.5640263236012273
+Phi60_Sig1_5min-----SI_ind_Sig1-----0.5698339481946402
+AvgSig1_C/N0-----Phi60_Sig1-----0.5162481483657082
+AvgSig1_C/N0-----Phi60_Sig1_1min-----0.5138858206857986
+S4_Sig1-----Phi60_Sig1-----0.5966672549737411
+S4_Sig1-----Phi60_Sig1_1min-----0.592685146885266
+S4_Sig1-----Phi60_Sig1_5min-----0.5640263236012273
+Cor_S4_Sig1-----Phi60_Sig1-----0.5270503838271939
+Cor_S4_Sig1-----Phi60_Sig1_1min-----0.5237202609911893
+Avg_C/N0_2nd_freq-----Phi60_Sig1-----0.5199290119119311
+Avg_C/N0_2nd_freq-----Phi60_Sig1_1min-----0.5167176011276422
+SI_ind_Sig1-----Phi60_Sig1-----0.6032473852075466
+SI_ind_Sig1-----Phi60_Sig1_1min-----0.5991288991084291
+SI_ind_Sig1-----Phi60_Sig1_5min-----0.5698339481946402
+
+{'BSN location Zgse[Re]', 'Plasma Beta', 'Phi60_Sig1_5min', 'SW Plasma flow lat. angle', 'SW Plasma flow long. angle', 'AE-index[nT]', 'Sig1_lock_time', 'Phi60_Sig1', 'Quasy-Invariant', 'f10.7_index', 'Vy Velocity[km/s]', 'Phi60_Sig1_1min', 'SW Plasma Speed[km/s]', 'Scalar B[nT]', 'Cor_S4_Sig1', 'Flow pressure', 'Avg_C/N0_2nd_freq', 'AL-index[nT]', 'Alfen mach number', 'Dst-index[nT]', 'SW Plasma Temperature[K]', 'pc-index', 'SI_ind_Sig1', 'Kp index', 'BSN location Xgse[Re]', 'Vx Velocity[km/s]', 'ap_index[nT]', 'S4_Sig1', 'AU-index[nT]', 'AvgSig1_C/N0', 'E elecrtric field'}
+Number of correlated columns:  31
+
+
+13839
+
+Phi60_Sig1-----Phi60_Sig1_1min-----0.9987757755234812
+Phi60_Sig1-----Phi60_Sig1_5min-----0.9854719518826323
+Phi60_Sig1-----Phi60_Sig1_15min-----0.9291728792273761
+Phi60_Sig1-----Phi60_Sig1_60min-----0.6076137407839399
+Phi60_Sig1_1min-----Phi60_Sig1-----0.9987757755234812
+Phi60_Sig1_1min-----Phi60_Sig1_5min-----0.989563226560813
+Phi60_Sig1_1min-----Phi60_Sig1_15min-----0.9355132380417434
+Phi60_Sig1_1min-----Phi60_Sig1_60min-----0.6139902844859149
+Phi60_Sig1_5min-----Phi60_Sig1-----0.9854719518826323
+Phi60_Sig1_5min-----Phi60_Sig1_1min-----0.989563226560813
+Phi60_Sig1_5min-----Phi60_Sig1_15min-----0.9598994216287876
+Phi60_Sig1_5min-----Phi60_Sig1_60min-----0.6418695933449774
+Phi60_Sig1_15min-----Phi60_Sig1-----0.9291728792273761
+Phi60_Sig1_15min-----Phi60_Sig1_1min-----0.9355132380417434
+Phi60_Sig1_15min-----Phi60_Sig1_5min-----0.9598994216287876
+Phi60_Sig1_15min-----Phi60_Sig1_60min-----0.714501428604652
+Phi60_Sig1_60min-----Phi60_Sig1-----0.6076137407839399
+Phi60_Sig1_60min-----Phi60_Sig1_1min-----0.6139902844859149
+Phi60_Sig1_60min-----Phi60_Sig1_5min-----0.6418695933449774
+Phi60_Sig1_60min-----Phi60_Sig1_15min-----0.714501428604652
+Elevation-----AvgSig1_C/N0-----0.7007264441961136
+Elevation-----S4_Sig1-----0.6559359613648117
+Elevation-----Cor_S4_Sig1-----0.7081183308294817
+Elevation-----Avg_C/N0_2nd_freq-----0.6317836589919993
+Elevation-----SI_ind_Sig1-----0.673054065171428
+AvgSig1_C/N0-----Elevation-----0.7007264441961136
+AvgSig1_C/N0-----S4_Sig1-----0.7503093741253275
+AvgSig1_C/N0-----Cor_S4_Sig1-----0.9932803253824459
+AvgSig1_C/N0-----Avg_C/N0_2nd_freq-----0.6189600021172278
+AvgSig1_C/N0-----SI_ind_Sig1-----0.7891418299779448
+S4_Sig1-----Elevation-----0.6559359613648117
+S4_Sig1-----AvgSig1_C/N0-----0.7503093741253275
+S4_Sig1-----Cor_S4_Sig1-----0.7770675746518547
+S4_Sig1-----Avg_C/N0_2nd_freq-----0.5545227410272963
+S4_Sig1-----SI_ind_Sig1-----0.9809141975803496
+Cor_S4_Sig1-----Elevation-----0.7081183308294817
+Cor_S4_Sig1-----AvgSig1_C/N0-----0.9932803253824459
+Cor_S4_Sig1-----S4_Sig1-----0.7770675746518547
+Cor_S4_Sig1-----Avg_C/N0_2nd_freq-----0.6295786771128681
+Cor_S4_Sig1-----SI_ind_Sig1-----0.8166483681849076
+TEC_TOW-----f10.7_index-----0.5097929084862148
+Sig1_lock_time-----Lock_time_2nd_freq-----0.9985367324322099
+Lock_time_2nd_freq-----Sig1_lock_time-----0.9985367324322099
+Avg_C/N0_2nd_freq-----Elevation-----0.6317836589919993
+Avg_C/N0_2nd_freq-----AvgSig1_C/N0-----0.6189600021172278
+Avg_C/N0_2nd_freq-----S4_Sig1-----0.5545227410272963
+Avg_C/N0_2nd_freq-----Cor_S4_Sig1-----0.6295786771128681
+Avg_C/N0_2nd_freq-----SI_ind_Sig1-----0.5873657104353892
+SI_ind_Sig1-----Elevation-----0.673054065171428
+SI_ind_Sig1-----AvgSig1_C/N0-----0.7891418299779448
+SI_ind_Sig1-----S4_Sig1-----0.9809141975803496
+SI_ind_Sig1-----Cor_S4_Sig1-----0.8166483681849076
+SI_ind_Sig1-----Avg_C/N0_2nd_freq-----0.5873657104353892
+Scalar B[nT]-----Plasma Beta-----0.6925744889537684
+Scalar B[nT]-----Alfen mach number-----0.7479893888623736
+Scalar B[nT]-----Magnetosonic Much num.-----0.6350571220160723
+Scalar B[nT]-----Quasy-Invariant-----0.7479571259134953
+Scalar B[nT]-----Kp index-----0.5068364373613087
+Scalar B[nT]-----ap_index[nT]-----0.5068364373613087
+BZ (GSE) [nT]-----E elecrtric field-----0.8738740308083109
+SW Plasma Temperature[K]-----SW Plasma Speed[km/s]-----0.7879369408167303
+SW Plasma Temperature[K]-----Alpha/Prot. ratio-----0.5605313601285974
+SW Plasma Temperature[K]-----Kp index-----0.5554503325907538
+SW Plasma Temperature[K]-----ap_index[nT]-----0.5554503325907538
+SW Plasma Temperature[K]-----Vx Velocity[km/s]-----0.7929332581232411
+SW Proton Density[N/cm^3]-----SW Plasma Speed[km/s]-----0.5156183742176714
+SW Proton Density[N/cm^3]-----Flow pressure-----0.6765391700446427
+SW Proton Density[N/cm^3]-----Vx Velocity[km/s]-----0.5234158322460892
+SW Proton Density[N/cm^3]-----BSN location Xgse[Re]-----0.6703766432137106
+SW Plasma Speed[km/s]-----SW Plasma Temperature[K]-----0.7879369408167303
+SW Plasma Speed[km/s]-----SW Proton Density[N/cm^3]-----0.5156183742176714
+SW Plasma Speed[km/s]-----Alpha/Prot. ratio-----0.5101616301524924
+SW Plasma Speed[km/s]-----Kp index-----0.5612048612079018
+SW Plasma Speed[km/s]-----Dst-index[nT]-----0.556619227117712
+SW Plasma Speed[km/s]-----ap_index[nT]-----0.5612048612079018
+SW Plasma Speed[km/s]-----Vx Velocity[km/s]-----0.9975794437571347
+SW Plasma Speed[km/s]-----SYM/H[nT]-----0.5387570557962309
+SW Plasma flow long. angle-----Vy Velocity[km/s]-----0.845787245147874
+SW Plasma flow long. angle-----BSN location Ygse[Re]-----0.7508075257258546
+SW Plasma flow lat. angle-----Vz Velocity[km/s]-----0.8235174758410022
+SW Plasma flow lat. angle-----BSN location Zgse[Re]-----0.83483192262291
+Alpha/Prot. ratio-----SW Plasma Temperature[K]-----0.5605313601285974
+Alpha/Prot. ratio-----SW Plasma Speed[km/s]-----0.5101616301524924
+Alpha/Prot. ratio-----Vx Velocity[km/s]-----0.5154971372505015
+Flow pressure-----SW Proton Density[N/cm^3]-----0.6765391700446427
+Flow pressure-----Kp index-----0.512984700340039
+Flow pressure-----ap_index[nT]-----0.512984700340039
+Flow pressure-----BSN location Xgse[Re]-----0.9413918360694538
+E elecrtric field-----BZ (GSE) [nT]-----0.8738740308083109
+E elecrtric field-----AE-index[nT]-----0.5306798753282519
+E elecrtric field-----AL-index[nT]-----0.5148142930556783
+E elecrtric field-----pc-index-----0.5915640216522059
+Plasma Beta-----Scalar B[nT]-----0.6925744889537684
+Plasma Beta-----Alfen mach number-----0.930501805742656
+Plasma Beta-----Magnetosonic Much num.-----0.6273664705120824
+Plasma Beta-----Quasy-Invariant-----0.9305046018604223
+Alfen mach number-----Scalar B[nT]-----0.7479893888623736
+Alfen mach number-----Plasma Beta-----0.930501805742656
+Alfen mach number-----Magnetosonic Much num.-----0.8529534381863478
+Alfen mach number-----Quasy-Invariant-----0.9998850751152594
+Magnetosonic Much num.-----Scalar B[nT]-----0.6350571220160723
+Magnetosonic Much num.-----Plasma Beta-----0.6273664705120824
+Magnetosonic Much num.-----Alfen mach number-----0.8529534381863478
+Magnetosonic Much num.-----Quasy-Invariant-----0.8529924597775452
+Quasy-Invariant-----Scalar B[nT]-----0.7479571259134953
+Quasy-Invariant-----Plasma Beta-----0.9305046018604223
+Quasy-Invariant-----Alfen mach number-----0.9998850751152594
+Quasy-Invariant-----Magnetosonic Much num.-----0.8529924597775452
+Kp index-----Scalar B[nT]-----0.5068364373613087
+Kp index-----SW Plasma Temperature[K]-----0.5554503325907538
+Kp index-----SW Plasma Speed[km/s]-----0.5612048612079018
+Kp index-----Flow pressure-----0.512984700340039
+Kp index-----ap_index[nT]-----1.0
+Kp index-----AE-index[nT]-----0.7769789892496684
+Kp index-----AL-index[nT]-----0.6957116706808542
+Kp index-----AU-index[nT]-----0.7490331597038943
+Kp index-----pc-index-----0.6637011446185391
+Kp index-----Vx Velocity[km/s]-----0.5651213258206863
+Kp index-----ASY/H[nT]-----0.5491198892520619
+R (Sunspot No.)-----f10.7_index-----0.9174064544319017
+R (Sunspot No.)-----Lyman_alph-----0.5034742464566051
+Dst-index[nT]-----SW Plasma Speed[km/s]-----0.556619227117712
+Dst-index[nT]-----AE-index[nT]-----0.5448282572818787
+Dst-index[nT]-----AL-index[nT]-----0.5370584177482168
+Dst-index[nT]-----Vx Velocity[km/s]-----0.5584952755188493
+Dst-index[nT]-----SYM/H[nT]-----0.895425755043514
+ap_index[nT]-----Scalar B[nT]-----0.5068364373613087
+ap_index[nT]-----SW Plasma Temperature[K]-----0.5554503325907538
+ap_index[nT]-----SW Plasma Speed[km/s]-----0.5612048612079018
+ap_index[nT]-----Flow pressure-----0.512984700340039
+ap_index[nT]-----Kp index-----1.0
+ap_index[nT]-----AE-index[nT]-----0.7769789892496684
+ap_index[nT]-----AL-index[nT]-----0.6957116706808542
+ap_index[nT]-----AU-index[nT]-----0.7490331597038943
+ap_index[nT]-----pc-index-----0.6637011446185391
+ap_index[nT]-----Vx Velocity[km/s]-----0.5651213258206863
+ap_index[nT]-----ASY/H[nT]-----0.5491198892520619
+f10.7_index-----TEC_TOW-----0.5097929084862148
+f10.7_index-----R (Sunspot No.)-----0.9174064544319017
+AE-index[nT]-----E elecrtric field-----0.5306798753282519
+AE-index[nT]-----Kp index-----0.7769789892496684
+AE-index[nT]-----Dst-index[nT]-----0.5448282572818787
+AE-index[nT]-----ap_index[nT]-----0.7769789892496684
+AE-index[nT]-----AL-index[nT]-----0.9492213014152315
+AE-index[nT]-----AU-index[nT]-----0.8692302975568584
+AE-index[nT]-----pc-index-----0.8076495986270954
+AE-index[nT]-----SYM/H[nT]-----0.5383989745524762
+AE-index[nT]-----ASY/H[nT]-----0.5878981743985154
+AL-index[nT]-----E elecrtric field-----0.5148142930556783
+AL-index[nT]-----Kp index-----0.6957116706808542
+AL-index[nT]-----Dst-index[nT]-----0.5370584177482168
+AL-index[nT]-----ap_index[nT]-----0.6957116706808542
+AL-index[nT]-----AE-index[nT]-----0.9492213014152315
+AL-index[nT]-----AU-index[nT]-----0.699134778624795
+AL-index[nT]-----pc-index-----0.7757911690869017
+AL-index[nT]-----SYM/H[nT]-----0.5414130114991859
+AL-index[nT]-----ASY/H[nT]-----0.5533622347065057
+AU-index[nT]-----Kp index-----0.7490331597038943
+AU-index[nT]-----ap_index[nT]-----0.7490331597038943
+AU-index[nT]-----AE-index[nT]-----0.8692302975568584
+AU-index[nT]-----AL-index[nT]-----0.699134778624795
+AU-index[nT]-----pc-index-----0.702763617313714
+AU-index[nT]-----ASY/H[nT]-----0.5418226882808308
+pc-index-----E elecrtric field-----0.5915640216522059
+pc-index-----Kp index-----0.6637011446185391
+pc-index-----ap_index[nT]-----0.6637011446185391
+pc-index-----AE-index[nT]-----0.8076495986270954
+pc-index-----AL-index[nT]-----0.7757911690869017
+pc-index-----AU-index[nT]-----0.702763617313714
+Lyman_alph-----R (Sunspot No.)-----0.5034742464566051
+Vx Velocity[km/s]-----SW Plasma Temperature[K]-----0.7929332581232411
+Vx Velocity[km/s]-----SW Proton Density[N/cm^3]-----0.5234158322460892
+Vx Velocity[km/s]-----SW Plasma Speed[km/s]-----0.9975794437571347
+Vx Velocity[km/s]-----Alpha/Prot. ratio-----0.5154971372505015
+Vx Velocity[km/s]-----Kp index-----0.5651213258206863
+Vx Velocity[km/s]-----Dst-index[nT]-----0.5584952755188493
+Vx Velocity[km/s]-----ap_index[nT]-----0.5651213258206863
+Vx Velocity[km/s]-----SYM/H[nT]-----0.5404302788573369
+Vy Velocity[km/s]-----SW Plasma flow long. angle-----0.845787245147874
+Vy Velocity[km/s]-----BSN location Ygse[Re]-----0.8940830954455248
+Vz Velocity[km/s]-----SW Plasma flow lat. angle-----0.8235174758410022
+Vz Velocity[km/s]-----BSN location Zgse[Re]-----0.9823521131940893
+BSN location Xgse[Re]-----SW Proton Density[N/cm^3]-----0.6703766432137106
+BSN location Xgse[Re]-----Flow pressure-----0.9413918360694538
+BSN location Ygse[Re]-----SW Plasma flow long. angle-----0.7508075257258546
+BSN location Ygse[Re]-----Vy Velocity[km/s]-----0.8940830954455248
+BSN location Zgse[Re]-----SW Plasma flow lat. angle-----0.83483192262291
+BSN location Zgse[Re]-----Vz Velocity[km/s]-----0.9823521131940893
+SYM/H[nT]-----SW Plasma Speed[km/s]-----0.5387570557962309
+SYM/H[nT]-----Dst-index[nT]-----0.895425755043514
+SYM/H[nT]-----AE-index[nT]-----0.5383989745524762
+SYM/H[nT]-----AL-index[nT]-----0.5414130114991859
+SYM/H[nT]-----Vx Velocity[km/s]-----0.5404302788573369
+ASY/H[nT]-----Kp index-----0.5491198892520619
+ASY/H[nT]-----ap_index[nT]-----0.5491198892520619
+ASY/H[nT]-----AE-index[nT]-----0.5878981743985154
+ASY/H[nT]-----AL-index[nT]-----0.5533622347065057
+ASY/H[nT]-----AU-index[nT]-----0.5418226882808308
+
+{'R (Sunspot No.)', 'BSN location Zgse[Re]', 'Plasma Beta', 'Phi60_Sig1_5min', 'SW Plasma flow lat. angle', 'SW Plasma flow long. angle', 'AE-index[nT]', 'Sig1_lock_time', 'Phi60_Sig1', 'Quasy-Invariant', 'f10.7_index', 'Vy Velocity[km/s]', 'Phi60_Sig1_1min', 'SW Plasma Speed[km/s]', 'Scalar B[nT]', 'Cor_S4_Sig1', 'Flow pressure', 'Avg_C/N0_2nd_freq', 'AL-index[nT]', 'Alfen mach number', 'Dst-index[nT]', 'SW Plasma Temperature[K]', 'pc-index', 'SI_ind_Sig1', 'Kp index', 'Phi60_Sig1_15min', 'BSN location Xgse[Re]', 'Vx Velocity[km/s]', 'ap_index[nT]', 'S4_Sig1', 'AU-index[nT]', 'AvgSig1_C/N0', 'E elecrtric field'}
+Number of correlated columns:  33
+
+
+BINS ONLY
+
+
+14268
+
+Phi60_Sig1-----Phi60_Sig1_1min-----0.9983239485290846
+Phi60_Sig1-----Phi60_Sig1_5min-----0.9848684395675246
+Phi60_Sig1-----Phi60_Sig1_15min-----0.9377838549283739
+Phi60_Sig1-----Phi60_Sig1_60min-----0.6233792653747221
+Phi60_Sig1-----p_Sig1-----0.680768095910813
+Phi60_Sig1_1min-----Phi60_Sig1-----0.9983239485290846
+Phi60_Sig1_1min-----Phi60_Sig1_5min-----0.9887893271694294
+Phi60_Sig1_1min-----Phi60_Sig1_15min-----0.9435750469255199
+Phi60_Sig1_1min-----Phi60_Sig1_60min-----0.6320821557982914
+Phi60_Sig1_1min-----p_Sig1-----0.6811716849905713
+Phi60_Sig1_5min-----Phi60_Sig1-----0.9848684395675246
+Phi60_Sig1_5min-----Phi60_Sig1_1min-----0.9887893271694294
+Phi60_Sig1_5min-----Phi60_Sig1_15min-----0.9644034982605169
+Phi60_Sig1_5min-----Phi60_Sig1_60min-----0.6653227951465321
+Phi60_Sig1_5min-----p_Sig1-----0.678041203758245
+Phi60_Sig1_15min-----Phi60_Sig1-----0.9377838549283739
+Phi60_Sig1_15min-----Phi60_Sig1_1min-----0.9435750469255199
+Phi60_Sig1_15min-----Phi60_Sig1_5min-----0.9644034982605169
+Phi60_Sig1_15min-----Phi60_Sig1_60min-----0.7440446827519418
+Phi60_Sig1_15min-----p_Sig1-----0.6551522607441169
+Phi60_Sig1_60min-----Phi60_Sig1-----0.6233792653747221
+Phi60_Sig1_60min-----Phi60_Sig1_1min-----0.6320821557982914
+Phi60_Sig1_60min-----Phi60_Sig1_5min-----0.6653227951465321
+Phi60_Sig1_60min-----Phi60_Sig1_15min-----0.7440446827519418
+Elevation-----Avg_C/N0_2nd_freq-----0.5521593130651856
+AvgSig1_C/N0-----Cor_S4_Sig1-----0.9994191981365935
+AvgSig1_C/N0-----Avg_C/N0_2nd_freq-----0.6544503905254441
+S4_Sig1-----SI_ind_Sig1-----0.8472405385486083
+Cor_S4_Sig1-----AvgSig1_C/N0-----0.9994191981365935
+Cor_S4_Sig1-----Avg_C/N0_2nd_freq-----0.654382521096072
+Sig1_lock_time-----Lock_time_2nd_freq-----0.9968846362064541
+Lock_time_2nd_freq-----Sig1_lock_time-----0.9968846362064541
+Avg_C/N0_2nd_freq-----Elevation-----0.5521593130651856
+Avg_C/N0_2nd_freq-----AvgSig1_C/N0-----0.6544503905254441
+Avg_C/N0_2nd_freq-----Cor_S4_Sig1-----0.654382521096072
+SI_ind_Sig1-----S4_Sig1-----0.8472405385486083
+p_Sig1-----Phi60_Sig1-----0.680768095910813
+p_Sig1-----Phi60_Sig1_1min-----0.6811716849905713
+p_Sig1-----Phi60_Sig1_5min-----0.678041203758245
+p_Sig1-----Phi60_Sig1_15min-----0.6551522607441169
+Scalar B[nT]-----Plasma Beta-----0.7060697577856999
+Scalar B[nT]-----Alfen mach number-----0.7568999498808746
+Scalar B[nT]-----Magnetosonic Much num.-----0.6033935943916736
+Scalar B[nT]-----Quasy-Invariant-----0.7569110605260954
+BZ (GSE) [nT]-----E elecrtric field-----0.8701315592639236
+SW Plasma Temperature[K]-----SW Plasma Speed[km/s]-----0.8184918794363973
+SW Plasma Temperature[K]-----Alpha/Prot. ratio-----0.6620111344062852
+SW Plasma Temperature[K]-----Kp index-----0.5625700406068852
+SW Plasma Temperature[K]-----ap_index[nT]-----0.5625700406068852
+SW Plasma Temperature[K]-----AE-index[nT]-----0.5212617951662498
+SW Plasma Temperature[K]-----Vx Velocity[km/s]-----0.8204511400421368
+SW Proton Density[N/cm^3]-----SW Plasma Speed[km/s]-----0.5680354950281487
+SW Proton Density[N/cm^3]-----Flow pressure-----0.6499801370900397
+SW Proton Density[N/cm^3]-----Dst-index[nT]-----0.522780581617629
+SW Proton Density[N/cm^3]-----Vx Velocity[km/s]-----0.5701738244246493
+SW Proton Density[N/cm^3]-----BSN location Xgse[Re]-----0.6548655141241225
+SW Proton Density[N/cm^3]-----SYM/H[nT]-----0.5192237260458167
+SW Plasma Speed[km/s]-----SW Plasma Temperature[K]-----0.8184918794363973
+SW Plasma Speed[km/s]-----SW Proton Density[N/cm^3]-----0.5680354950281487
+SW Plasma Speed[km/s]-----Alpha/Prot. ratio-----0.6422237571762411
+SW Plasma Speed[km/s]-----Kp index-----0.5690050807055791
+SW Plasma Speed[km/s]-----Dst-index[nT]-----0.5700845084065752
+SW Plasma Speed[km/s]-----ap_index[nT]-----0.5690050807055791
+SW Plasma Speed[km/s]-----AE-index[nT]-----0.5319461438521644
+SW Plasma Speed[km/s]-----Vx Velocity[km/s]-----0.9981774682401151
+SW Plasma Speed[km/s]-----SYM/H[nT]-----0.5711271222018525
+SW Plasma flow long. angle-----Vy Velocity[km/s]-----0.8947051786678542
+SW Plasma flow long. angle-----BSN location Ygse[Re]-----0.7793133922716136
+SW Plasma flow lat. angle-----Vz Velocity[km/s]-----0.8490565614922692
+SW Plasma flow lat. angle-----BSN location Zgse[Re]-----0.8618618616501799
+Alpha/Prot. ratio-----SW Plasma Temperature[K]-----0.6620111344062852
+Alpha/Prot. ratio-----SW Plasma Speed[km/s]-----0.6422237571762411
+Alpha/Prot. ratio-----Vx Velocity[km/s]-----0.6445242523586512
+Flow pressure-----SW Proton Density[N/cm^3]-----0.6499801370900397
+Flow pressure-----BSN location Xgse[Re]-----0.9489390823914184
+E elecrtric field-----BZ (GSE) [nT]-----0.8701315592639236
+E elecrtric field-----pc-index-----0.5626324066469656
+Plasma Beta-----Scalar B[nT]-----0.7060697577856999
+Plasma Beta-----Alfen mach number-----0.9334296581206563
+Plasma Beta-----Magnetosonic Much num.-----0.5607043673031765
+Plasma Beta-----Quasy-Invariant-----0.9333614938911489
+Alfen mach number-----Scalar B[nT]-----0.7568999498808746
+Alfen mach number-----Plasma Beta-----0.9334296581206563
+Alfen mach number-----Magnetosonic Much num.-----0.8019358959830807
+Alfen mach number-----Quasy-Invariant-----0.9998533845282189
+Magnetosonic Much num.-----Scalar B[nT]-----0.6033935943916736
+Magnetosonic Much num.-----Plasma Beta-----0.5607043673031765
+Magnetosonic Much num.-----Alfen mach number-----0.8019358959830807
+Magnetosonic Much num.-----Quasy-Invariant-----0.8020390128563345
+Quasy-Invariant-----Scalar B[nT]-----0.7569110605260954
+Quasy-Invariant-----Plasma Beta-----0.9333614938911489
+Quasy-Invariant-----Alfen mach number-----0.9998533845282189
+Quasy-Invariant-----Magnetosonic Much num.-----0.8020390128563345
+Kp index-----SW Plasma Temperature[K]-----0.5625700406068852
+Kp index-----SW Plasma Speed[km/s]-----0.5690050807055791
+Kp index-----ap_index[nT]-----1.0
+Kp index-----AE-index[nT]-----0.7786130534213953
+Kp index-----AL-index[nT]-----0.6956971575499773
+Kp index-----AU-index[nT]-----0.7469074581960792
+Kp index-----pc-index-----0.6788006473301164
+Kp index-----Vx Velocity[km/s]-----0.5747393871806269
+Kp index-----ASY/H[nT]-----0.5153452352754427
+R (Sunspot No.)-----f10.7_index-----0.7595865230268776
+Dst-index[nT]-----SW Proton Density[N/cm^3]-----0.522780581617629
+Dst-index[nT]-----SW Plasma Speed[km/s]-----0.5700845084065752
+Dst-index[nT]-----AE-index[nT]-----0.5345221187426648
+Dst-index[nT]-----AL-index[nT]-----0.5434084214476049
+Dst-index[nT]-----Vx Velocity[km/s]-----0.5684475603046981
+Dst-index[nT]-----SYM/H[nT]-----0.9272312880713368
+ap_index[nT]-----SW Plasma Temperature[K]-----0.5625700406068852
+ap_index[nT]-----SW Plasma Speed[km/s]-----0.5690050807055791
+ap_index[nT]-----Kp index-----1.0
+ap_index[nT]-----AE-index[nT]-----0.7786130534213953
+ap_index[nT]-----AL-index[nT]-----0.6956971575499773
+ap_index[nT]-----AU-index[nT]-----0.7469074581960792
+ap_index[nT]-----pc-index-----0.6788006473301164
+ap_index[nT]-----Vx Velocity[km/s]-----0.5747393871806269
+ap_index[nT]-----ASY/H[nT]-----0.5153452352754427
+f10.7_index-----R (Sunspot No.)-----0.7595865230268776
+AE-index[nT]-----SW Plasma Temperature[K]-----0.5212617951662498
+AE-index[nT]-----SW Plasma Speed[km/s]-----0.5319461438521644
+AE-index[nT]-----Kp index-----0.7786130534213953
+AE-index[nT]-----Dst-index[nT]-----0.5345221187426648
+AE-index[nT]-----ap_index[nT]-----0.7786130534213953
+AE-index[nT]-----AL-index[nT]-----0.9483600328488775
+AE-index[nT]-----AU-index[nT]-----0.8478038884111373
+AE-index[nT]-----pc-index-----0.8210947308713015
+AE-index[nT]-----Vx Velocity[km/s]-----0.5364808099283204
+AE-index[nT]-----SYM/H[nT]-----0.53410927897196
+AE-index[nT]-----ASY/D[nT]-----0.5105434112718108
+AE-index[nT]-----ASY/H[nT]-----0.5910833128401635
+AL-index[nT]-----Kp index-----0.6956971575499773
+AL-index[nT]-----Dst-index[nT]-----0.5434084214476049
+AL-index[nT]-----ap_index[nT]-----0.6956971575499773
+AL-index[nT]-----AE-index[nT]-----0.9483600328488775
+AL-index[nT]-----AU-index[nT]-----0.6703236794325548
+AL-index[nT]-----pc-index-----0.7858720442427134
+AL-index[nT]-----Vx Velocity[km/s]-----0.5000246824462511
+AL-index[nT]-----SYM/H[nT]-----0.5466400154763563
+AL-index[nT]-----ASY/H[nT]-----0.5517878907373035
+AU-index[nT]-----Kp index-----0.7469074581960792
+AU-index[nT]-----ap_index[nT]-----0.7469074581960792
+AU-index[nT]-----AE-index[nT]-----0.8478038884111373
+AU-index[nT]-----AL-index[nT]-----0.6703236794325548
+AU-index[nT]-----pc-index-----0.7056868266310561
+AU-index[nT]-----ASY/H[nT]-----0.5489945773992968
+pc-index-----E elecrtric field-----0.5626324066469656
+pc-index-----Kp index-----0.6788006473301164
+pc-index-----ap_index[nT]-----0.6788006473301164
+pc-index-----AE-index[nT]-----0.8210947308713015
+pc-index-----AL-index[nT]-----0.7858720442427134
+pc-index-----AU-index[nT]-----0.7056868266310561
+Vx Velocity[km/s]-----SW Plasma Temperature[K]-----0.8204511400421368
+Vx Velocity[km/s]-----SW Proton Density[N/cm^3]-----0.5701738244246493
+Vx Velocity[km/s]-----SW Plasma Speed[km/s]-----0.9981774682401151
+Vx Velocity[km/s]-----Alpha/Prot. ratio-----0.6445242523586512
+Vx Velocity[km/s]-----Kp index-----0.5747393871806269
+Vx Velocity[km/s]-----Dst-index[nT]-----0.5684475603046981
+Vx Velocity[km/s]-----ap_index[nT]-----0.5747393871806269
+Vx Velocity[km/s]-----AE-index[nT]-----0.5364808099283204
+Vx Velocity[km/s]-----AL-index[nT]-----0.5000246824462511
+Vx Velocity[km/s]-----SYM/H[nT]-----0.5694244081602244
+Vy Velocity[km/s]-----SW Plasma flow long. angle-----0.8947051786678542
+Vy Velocity[km/s]-----BSN location Ygse[Re]-----0.8679468662002766
+Vz Velocity[km/s]-----SW Plasma flow lat. angle-----0.8490565614922692
+Vz Velocity[km/s]-----BSN location Zgse[Re]-----0.9819789074216848
+BSN location Xgse[Re]-----SW Proton Density[N/cm^3]-----0.6548655141241225
+BSN location Xgse[Re]-----Flow pressure-----0.9489390823914184
+BSN location Ygse[Re]-----SW Plasma flow long. angle-----0.7793133922716136
+BSN location Ygse[Re]-----Vy Velocity[km/s]-----0.8679468662002766
+BSN location Zgse[Re]-----SW Plasma flow lat. angle-----0.8618618616501799
+BSN location Zgse[Re]-----Vz Velocity[km/s]-----0.9819789074216848
+SYM/H[nT]-----SW Proton Density[N/cm^3]-----0.5192237260458167
+SYM/H[nT]-----SW Plasma Speed[km/s]-----0.5711271222018525
+SYM/H[nT]-----Dst-index[nT]-----0.9272312880713368
+SYM/H[nT]-----AE-index[nT]-----0.53410927897196
+SYM/H[nT]-----AL-index[nT]-----0.5466400154763563
+SYM/H[nT]-----Vx Velocity[km/s]-----0.5694244081602244
+ASY/D[nT]-----AE-index[nT]-----0.5105434112718108
+ASY/H[nT]-----Kp index-----0.5153452352754427
+ASY/H[nT]-----ap_index[nT]-----0.5153452352754427
+ASY/H[nT]-----AE-index[nT]-----0.5910833128401635
+ASY/H[nT]-----AL-index[nT]-----0.5517878907373035
+ASY/H[nT]-----AU-index[nT]-----0.5489945773992968
+
+{'BSN location Zgse[Re]', 'Plasma Beta', 'Phi60_Sig1_5min', 'AE-index[nT]', 'SW Plasma flow long. angle', 'Sig1_lock_time', 'Phi60_Sig1', 'Quasy-Invariant', 'SYM/H[nT]', 'f10.7_index', 'Vy Velocity[km/s]', 'Phi60_Sig1_1min', 'SW Plasma Speed[km/s]', 'Scalar B[nT]', 'Cor_S4_Sig1', 'Flow pressure', 'Avg_C/N0_2nd_freq', 'AL-index[nT]', 'Alfen mach number', 'Dst-index[nT]', 'SW Plasma Temperature[K]', 'pc-index', 'Kp index', 'Vz Velocity[km/s]', 'Phi60_Sig1_15min', 'BSN location Xgse[Re]', 'Vx Velocity[km/s]', 'ap_index[nT]', 'S4_Sig1', 'AU-index[nT]', 'AvgSig1_C/N0', 'E elecrtric field'}
+Number of correlated columns:  32
+
+
+BINS ONLY
+Phi60_Sig1-----p_Sig1-----0.680768095910813
+Phi60_Sig1_1min-----p_Sig1-----0.6811716849905713
+Phi60_Sig1_5min-----p_Sig1-----0.678041203758245
+Phi60_Sig1_15min-----p_Sig1-----0.6551522607441169
+p_Sig1-----Phi60_Sig1-----0.680768095910813
+p_Sig1-----Phi60_Sig1_1min-----0.6811716849905713
+p_Sig1-----Phi60_Sig1_5min-----0.678041203758245
+p_Sig1-----Phi60_Sig1_15min-----0.6551522607441169
+
+{'BSN location Zgse[Re]', 'Plasma Beta', 'Phi60_Sig1_5min', 'AE-index[nT]', 'SW Plasma flow long. angle', 'Sig1_lock_time', 'Phi60_Sig1', 'Quasy-Invariant', 'SYM/H[nT]', 'f10.7_index', 'Vy Velocity[km/s]', 'Phi60_Sig1_1min', 'SW Plasma Speed[km/s]', 'Scalar B[nT]', 'Cor_S4_Sig1', 'Flow pressure', 'Avg_C/N0_2nd_freq', 'AL-index[nT]', 'Alfen mach number', 'Dst-index[nT]', 'SW Plasma Temperature[K]', 'pc-index', 'Kp index', 'Vz Velocity[km/s]', 'Phi60_Sig1_15min', 'BSN location Xgse[Re]', 'Vx Velocity[km/s]', 'ap_index[nT]', 'S4_Sig1', 'AU-index[nT]', 'AvgSig1_C/N0', 'E elecrtric field'}
+Number of correlated columns:  32
